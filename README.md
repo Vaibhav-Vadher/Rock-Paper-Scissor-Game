@@ -1,2 +1,2 @@
 # Rock-Paper-Scissor-Game
-By Vaibhav Vadher
+Now play Rock Paper Scissor with your computer
